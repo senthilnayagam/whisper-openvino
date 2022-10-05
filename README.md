@@ -5,7 +5,7 @@ This repo is a fork of whisper ASR models with openvino backend. Currently, the 
 To install, please run the following command with the environment described in the origin repo: https://github.com/openai/whisper.git
 
 ```bash
-pip install git+https://github.com/zhuzilin/whisper-openvino.git
+pip install git+https://github.com/senthilnayagam/whisper-openvino.git
 ```
 
 And you can use this modified version of whisper the same as the origin version. For example, to test the performace gain, I transcrible the John Carmack's amazing 92 min talk about rendering at QuakeCon 2013 (you could check the record on [youtube](https://www.youtube.com/watch?v=P6UKhR0T6cs)) with macbook pro 2019 (Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz) with:
