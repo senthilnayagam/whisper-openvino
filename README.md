@@ -24,3 +24,6 @@ You can check the transcribed txt in [carmack.mp3.txt](./carmack.mp3.txt).
 
 All weights and models include the intermediate ONNX are uploaded to [huggingface model hub](https://huggingface.co/models?search=whisper-openvino).
 
+todo:
+
+install it as whisper-openvino, as whisper is used for openai version
