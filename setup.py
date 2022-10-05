@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="whisper",
-    py_modules=["whisper-openvino"],
+    py_modules=["whisper_openvino"],
     version="1.0",
     description="",
     author="OpenAI",
